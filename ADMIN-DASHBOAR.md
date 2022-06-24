@@ -4,8 +4,7 @@
 ## Download the data
 
 
-See [Standard Datasets](StandardDatasets.md) for details about this script.
-
+See [Readme](README.md) for details about this project.
 
 
 ### Logging in
