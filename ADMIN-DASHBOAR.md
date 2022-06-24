@@ -6,14 +6,17 @@
 
 See [Standard Datasets](StandardDatasets.md) for details about this script.
 
-## Using the Webapp
 
-![Home page](images/admin-dashboard/home-page-1.png)
 
 ### Logging in
 
 
-![Login](images/admin-dashboard/home-page-1.png)
+![Login](images/admin-dashboard/tela-login.png)
+
+
+## Using the DashBoard
+
+![Home page](images/admin-dashboard/dashboard.png)
 
 ### Creating a Dataset
 
