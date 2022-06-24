@@ -17,9 +17,15 @@ See [Readme](README.md) for details about this project.
 
 ![Home page](images/admin-dashboard/dashboard.png)
 
-### Creating a Dataset
+### List Products
 
 While the job is running, you should see the expected completion time on the right side:
 
-![Home page with dataset](images/admin-dashboard/dashboard.png)
+![List Products](images/admin-dashboard/products.png)
 
+
+### Edit Product
+
+While the job is running, you should see the expected completion time on the right side:
+
+![Edit product](images/admin-dashboard/edit-product.jpg)
