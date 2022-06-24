@@ -22,5 +22,5 @@ See [Standard Datasets](StandardDatasets.md) for details about this script.
 
 While the job is running, you should see the expected completion time on the right side:
 
-![Home page with dataset](images/admin-dashboard/home-page-1.jpg)
+![Home page with dataset](images/admin-dashboard/dashboard.png)
 
